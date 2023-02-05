@@ -8,7 +8,7 @@
 <br />
 ### What i'm up to
 
-- 🌱 ***I’m currently learning [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript "JavaScript") and [React](http://https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started "React")***
+- 🌱 ***I’m currently learning [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript "JavaScript") and [React](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started "React")***
 - 👯 ***I’m looking to collaborate on web development projects***
 - 📫 ***How to reach me: [Portfolio](https://rotgergabriel.netlify.app/ "Portfolio") and rotgergabriel@gmail.com*** 
 
