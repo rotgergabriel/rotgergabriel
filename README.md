@@ -1,4 +1,6 @@
-### Hi there 👋
+### hello world 👋  It's Gabriel!
+
+ I am a front-end developer with my :tw-1f49b: in Javascript and React.js
 
 <!--
 **rotgergabriel/rotgergabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
