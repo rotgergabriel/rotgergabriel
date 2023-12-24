@@ -1,4 +1,4 @@
-## hello world 👋  It's Gabriel!
+## Hello world 👋  It's Gabriel!
 
 ***I am a front-end developer with my ♥ in Javascript and React.js***
 <br />
