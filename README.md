@@ -11,7 +11,7 @@
 
 I am a Full-Stack developer based in Turin, Italy, with a strong passion for building interactive and responsive web applications. My expertise spans from crafting engaging user interfaces with JavaScript and React.js to developing robust back-end solutions using PHP, SQL, and MySQL. I am also proficient in using tools like Figma, Notion, and Trello to manage projects and design efficient digital solutions.
 
-- 🌱 **I’m currently learning:** [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and [React](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
+- 🌱 **I’m currently learning:** [PHP](https://www.w3schools.com/php/) and [SQL](https://www.w3schools.com/sql/)
 - 👯 **I’m looking to collaborate on:** Full-Stack web development projects
 - 📫 **How to reach me:** [Portfolio](https://rotgergabriel.netlify.app/) - rotgergabriel@gmail.com
 
