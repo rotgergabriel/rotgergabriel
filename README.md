@@ -1,44 +1,63 @@
-# Hello World! 👋 I'm Gabriel!
+# <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=70c8ff&height=120&section=header&text=Hello%20World!%20👋%20I'm%20Gabriel!&fontSize=50&animation=fadeIn" /> </p>
 
-***I am a passionate Full-Stack Developer with my ♥ in Web Technologies***
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=70c8ff&center=true&vCenter=true&width=600&lines=Passionate+Full-Stack+Developer;With+my+%E2%99%A5+in+Web+Technologies&background=00000000" alt="Typing SVG" />
+</p>
 
-[![LinkedIn](https://icongr.am/fontawesome/linkedin.svg?size=22&color=70c8ff)](https://www.linkedin.com/in/gabriel-augusto-rotger/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-rotgergabriel.netlify.app-70c8ff?style=flat&logo=netlify)](https://rotgergabriel.netlify.app/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-augusto-rotger/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://rotgergabriel.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-70c8ff?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## About Me
+## 👤 About Me
 
-I am a Full-Stack developer based in Turin, Italy, with a strong passion for building interactive and responsive web applications. My expertise spans from crafting engaging user interfaces with JavaScript and React.js to developing robust back-end solutions using PHP, SQL, and MySQL. I am also proficient in using tools like Figma, Notion, and Trello to manage projects and design efficient digital solutions.
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> I am a **Full-Stack Developer** based in **Turin, Italy**, passionate about building interactive and responsive web applications. 
+
+My expertise spans from crafting engaging user interfaces with **JavaScript** and **React.js** to developing robust back-end solutions using **PHP**, **SQL**, and **MySQL**. I also leverage tools like **Figma**, **Notion**, and **Trello** to design and manage efficient digital solutions.
+
+### 🚀 Quick Status
 
 - 🌱 **I’m currently learning:** [PHP](https://www.w3schools.com/php/) and [SQL](https://www.w3schools.com/sql/)
 - 👯 **I’m looking to collaborate on:** Full-Stack web development projects
-- 📫 **How to reach me:** [Portfolio](https://rotgergabriel.netlify.app/) - rotgergabriel@gmail.com
-
-## Languages and Tools
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=sqlite)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
+- 📫 **How to reach me:** [Portfolio](https://rotgergabriel.netlify.app/) - [rotgergabriel@gmail.com](mailto:rotgergabriel@gmail.com)
 
 ---
 
-## Get in Touch
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,git,npm,figma,notion,trello" />
+  </a>
+</p>
+
+---
+
+## 📊 My GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rotgergabriel&theme=tokyonight&fire=70c8ff&ring=70c8ff&sideNums=ffffff&sideLabels=ffffff&dates=70c8ff&background=0D1117&hide_border=true" alt="GitHub Streak" height="150px" />
+</p>
+
+---
+
+## 📬 Get in Touch
 
 Feel free to reach out if you're interested in collaborating on a project or just want to connect!
 
-- **LinkedIn:** [Gabriel Augusto Rotger](https://www.linkedin.com/in/gabriel-augusto-rotger/)
-- **Email:** rotgergabriel@gmail.com
+* **LinkedIn:** [Gabriel Augusto Rotger](https://www.linkedin.com/in/gabriel-augusto-rotger/)
+* **Email:** [rotgergabriel@gmail.com](mailto:rotgergabriel@gmail.com)
+* <a href="https://rotgergabriel.netlify.app/"><img src="https://img.shields.io/badge/-Hire%20Me-70c8ff?style=flat-square&logo=icloud&logoColor=white" /></a>
 
 ---
 
-Thank you for visiting my GitHub profile!
+<p align="left">
+  <i>Thank you for visiting my GitHub profile!</i>
+</p>
