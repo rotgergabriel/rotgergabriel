@@ -1,6 +1,6 @@
 # Hello World! 👋 I'm Gabriel!
 
-***I am a passionate Front-End Developer with my ♥ in JavaScript and React.js***
+***I am a passionate Full-Stack Developer with my ♥ in Web Technologies***
 
 [![LinkedIn](https://icongr.am/fontawesome/linkedin.svg?size=22&color=70c8ff)](https://www.linkedin.com/in/gabriel-augusto-rotger/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-rotgergabriel.netlify.app-70c8ff?style=flat&logo=netlify)](https://rotgergabriel.netlify.app/)
@@ -9,10 +9,10 @@
 
 ## About Me
 
-I am a front-end developer with a strong passion for building interactive and responsive web applications. My expertise lies in JavaScript and React.js, and I am continuously expanding my skills in these areas. I enjoy collaborating on web development projects and contributing to the open-source community.
+I am a Full-Stack developer based in Turin, Italy, with a strong passion for building interactive and responsive web applications. My expertise spans from crafting engaging user interfaces with JavaScript and React.js to developing robust back-end solutions using PHP, SQL, and MySQL. I am also proficient in using tools like Figma, Notion, and Trello to manage projects and design efficient digital solutions.
 
 - 🌱 **I’m currently learning:** [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and [React](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
-- 👯 **I’m looking to collaborate on:** Web development projects
+- 👯 **I’m looking to collaborate on:** Full-Stack web development projects
 - 📫 **How to reach me:** [Portfolio](https://rotgergabriel.netlify.app/) - rotgergabriel@gmail.com
 
 ## Languages and Tools
